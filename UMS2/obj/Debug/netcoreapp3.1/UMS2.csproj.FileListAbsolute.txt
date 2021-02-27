@@ -21,3 +21,17 @@ C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\UMS2.Ra
 C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\UMS2.RazorTargetAssemblyInfo.cs
 C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\staticwebassets\UMS2.StaticWebAssets.Manifest.cache
 C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\staticwebassets\UMS2.StaticWebAssets.xml
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\bin\Debug\netcoreapp3.1\UMS2.deps.json
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\bin\Debug\netcoreapp3.1\UMS2.runtimeconfig.json
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\bin\Debug\netcoreapp3.1\UMS2.runtimeconfig.dev.json
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\bin\Debug\netcoreapp3.1\UMS2.dll
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\bin\Debug\netcoreapp3.1\UMS2.pdb
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\bin\Debug\netcoreapp3.1\UMS2.Views.dll
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\bin\Debug\netcoreapp3.1\UMS2.Views.pdb
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\UMS2.csproj.CoreCompileInputs.cache
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\UMS2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\UMS2.Views.pdb
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\UMS2.dll
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\UMS2.pdb
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\UMS2.genruntimeconfig.cache
+C:\Users\cidos\Source\My Practice\2020\UMS2\UMS2\obj\Debug\netcoreapp3.1\UMS2.csproj.CopyComplete
