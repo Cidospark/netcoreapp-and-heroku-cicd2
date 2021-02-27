@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+eGvxfOkgeP5jJxuluShA7YtPSDoD0mJr4hkmPtq4/4tQFe3pwv8/2NdZllR+Ka4AdXWHzdjkOH2BzMreiszw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cidos\\Source\\My Practice\\2020\\UMS2\\UMS2\\UMS2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cidos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
