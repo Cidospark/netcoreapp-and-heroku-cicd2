@@ -1,4 +1,4 @@
-name: CI
+name: UMS_CI
 
 on:
   push:
