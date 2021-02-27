@@ -11,7 +11,7 @@ COPY . .
 FROM base AS testing
 WORKDIR /src/UMS2
 RUN dotnet build
-WORKDIR /src/UMSTest
+WORKDIR /src/UMS2Test
 RUN dotnet test
 
 #Publishing
