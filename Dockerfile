@@ -24,4 +24,4 @@ FROM mcr.microsoft.com/dotnet/aspnet:3.1 AS runtime
 WORKDIR /app
 COPY --from=publish /src/publish .
 #ENTRYPOINT ["dotnet", "UMS2.dll"]
-CMD ASPNETCORE_URLS=http://*:PORT dotnet UMS2.dll
+CMD ASPNETCORE_URLS=https://*:PORT dotnet UMS2.dll
